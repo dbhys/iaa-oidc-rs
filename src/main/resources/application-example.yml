@@ -7,4 +7,4 @@ dbhys:
     read_timeout: 500
 
 logging.level:
-  com.taikang.iaa: debug
+  com.dbhys.iaa: debug
